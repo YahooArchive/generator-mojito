@@ -1,0 +1,9 @@
+[{
+    "settings": ["master"],
+
+    "main": {
+        "verbs": ["get", "post"],
+        "path": "/",
+        "call": "mainframe.index"
+    }
+}]

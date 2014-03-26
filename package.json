@@ -1,0 +1,32 @@
+{
+    "name": "generator-mojito",
+    "version": "0.0.0",
+    "description": "Yeoman generator",
+    "license": "MIT",
+    "repository": "aljimenez/generator-mojito",
+    "main": "application/index.js",
+    "author": {
+        "name": "Albert Jimenez",
+        "email": "albert.louis.jimenez@gmail.com",
+        "url": "https://github.com/aljimenez"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "files": ["application"],
+    "keywords": ["yeoman-generator"],
+    "dependencies": {
+        "yeoman-generator": "~0.16.0",
+        "async": "0.2.x",
+        "chalk": "~0.4.0"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "peerDependencies": {
+        "yo": ">=1.0.0"
+    }
+}

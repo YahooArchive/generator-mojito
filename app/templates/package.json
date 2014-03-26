@@ -1,0 +1,19 @@
+{
+    "name": "<%= appname %>",
+    "version": "0.0.0",
+    "description": "Mojito application",
+    "main": "app.js",
+    "engines": {
+        "node": ">= 0.10.0",
+        "mojito": ">= 0.9"
+    },
+    "scripts": {
+        "test": "mojito test app",
+        "start": "node app.js"
+    },
+    "keywords": ["mojito"],
+    "dependencies": {
+        "mojito": "0.9.x",
+        "express": "3.5.x"
+    }
+}
