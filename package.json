@@ -4,7 +4,6 @@
     "description": "Yeoman generator",
     "license": "MIT",
     "repository": "aljimenez/generator-mojito",
-    "main": "application/index.js",
     "author": {
         "name": "Albert Jimenez",
         "email": "albert.louis.jimenez@gmail.com",
