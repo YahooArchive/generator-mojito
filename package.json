@@ -1,32 +1,43 @@
 {
     "name": "generator-mojito",
+    "description": "Yeoman generator that scaffolds Mojito applications",
     "version": "0.0.0",
-    "description": "Yeoman generator",
-    "license": "MIT",
-    "repository": "aljimenez/generator-mojito",
-    "author": {
-        "name": "Albert Jimenez",
-        "email": "albert.louis.jimenez@gmail.com",
-        "url": "https://github.com/aljimenez"
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yahoo/generator-mojito.git"
     },
+    "author": {
+        "name": "Search FE Platform team",
+        "email": "search-fe-platform@yahoo-inc.com"
+    },
+    "contributors": [
+        "Albert Jimenez <jimenez@yahoo-inc.com>"
+    ],
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "https://github.com/yahoo/generator-mojito/blob/master/LICENSE.txt"
+        }
+    ],
     "engines": {
-        "node": ">=0.10.0"
+        "node": "> 0.10",
+        "npm": "> 1.2",
+        "mojito": "> 0.9"
     },
     "scripts": {
-        "test": "mocha"
+        "test": "grunt jshint"
     },
-    "files": ["application"],
-    "keywords": ["yeoman-generator"],
+    "keywords": [
+        "yeoman-generator",
+        "mojito"
+    ],
     "dependencies": {
-        "yeoman-generator": "~0.16.0",
+        "yeoman-generator": "0.16.x",
         "async": "0.2.x",
-        "chalk": "~0.4.0"
+        "chalk": "0.4.x"
     },
     "devDependencies": {
         "grunt": "0.4.x",
-        "grunt-contrib-jshint": "*"
-    },
-    "peerDependencies": {
-        "yo": ">=1.0.0"
+        "grunt-contrib-jshint": "0.x"
     }
 }
