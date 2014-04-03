@@ -1,4 +1,4 @@
-# generator-mojito [![Build Status](https://secure.travis-ci.org/yahoo/mojito.png)](http://travis-ci.org/yahoo/mojito)
+# generator-mojito [![Build Status](https://secure.travis-ci.org/yahoo/generator-mojito.png)](http://travis-ci.org/yahoo/generator-mojito)
 
 > [Yeoman](http://yeoman.io/) generator for [Mojito](https://developer.yahoo.com/cocktails/mojito/)  
 > Scaffolds out an entire Mojito application or individual Mojito components.
