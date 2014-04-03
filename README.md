@@ -3,7 +3,7 @@
 > [Yeoman](http://yeoman.io/) generator for [Mojito](https://developer.yahoo.com/cocktails/mojito/)  
 > Scaffolds out an entire Mojito application or individual Mojito components.
 
-<img src="https://raw.githubusercontent.com/yahoo/generator-mojito/master/screenshot.png?token=1406782__eyJzY29wZSI6IlJhd0Jsb2I6eWFob28vZ2VuZXJhdG9yLW1vaml0by9tYXN0ZXIvc2NyZWVuc2hvdC5wbmciLCJleHBpcmVzIjoxMzk3MDkzMDEzfQ%3D%3D--9ab27223aafb98047ea0754fca27ab597449820c" alt="Screenshot" width="50%">
+<img src="https://raw.githubusercontent.com/yahoo/generator-mojito/master/screenshot.png?token=1406782__eyJzY29wZSI6IlJhd0Jsb2I6eWFob28vZ2VuZXJhdG9yLW1vaml0by9tYXN0ZXIvc2NyZWVuc2hvdC5wbmciLCJleHBpcmVzIjoxMzk3MDkzMDEzfQ%3D%3D--9ab27223aafb98047ea0754fca27ab597449820c" alt="Screenshot" width="54%">
 
 ## Getting Started
 
