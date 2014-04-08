@@ -29,7 +29,8 @@
     },
     "keywords": [
         "yeoman-generator",
-        "mojito"
+        "mojito",
+        "scaffold"
     ],
     "dependencies": {
         "yeoman-generator": "0.16.x",
